@@ -9,6 +9,7 @@ fn main() {
     // Cause mutable -->
     x = 8;
     let y = 20;
+    
     // let keyword use karke we can change the value of immutable var 
     // but wo value valid hogi sirf pehli wali change hojayegi
     let y = 40;

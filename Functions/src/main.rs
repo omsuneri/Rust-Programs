@@ -11,7 +11,7 @@ fn main() {
     
 }
 
-// Functions are the block code that can be reused as many time youy want 
+// Functions are the block code that can be reused as many time you want 
 // Simple fuction
 fn prints(){
     println!("Hello Guyzzz !!!!");

@@ -1,1 +1,1 @@
-/Users/omsuneri/Desktop/Rust\ Programs\ /Rust-Programs/helloworld/target/debug/helloworld: /Users/omsuneri/Desktop/Rust\ Programs\ /Rust-Programs/helloworld/src/main.rs
+/Users/omsuneri/Desktop/Rust-Programs/Hello\ World/target/debug/helloworld: /Users/omsuneri/Desktop/Rust-Programs/Hello\ World/src/main.rs

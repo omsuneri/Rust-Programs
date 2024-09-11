@@ -7,7 +7,7 @@ fn main() {
     let bool = true;
     let char = 'o';
     let heart_eyed_cat = '😻'; // char me you can have emojis too
-    println!("the value of integer is {integer}");
+    println!("the value of integer is {}", integer);
     println!("the value of integer is {float}");
     println!("the value of integer is {bool}");
     println!("the value of integer is {char}");
@@ -38,5 +38,6 @@ fn main() {
     println!("the 3rd element is {}", array[2]);
     println!("the 4th element is {}", array[3]);
     println!("the 5th element is {}", array[4]);
+    println!("the 5th element is {}", array1[4]);
 
 }
