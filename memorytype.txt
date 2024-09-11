@@ -1,0 +1,35 @@
+hello world !!
+in this text file you will get to know about the memory type and there management in a os
+so the type of memories are 
+
+1. RAM : volatile memory
+2. Persistent : non volatile memory SSD
+
+1. RAM is totally divided into 3 parts 
+a. stack b. heap c. static 
+
+** static memory 
+here the binary of the programs and jo bhi global variables and static variable are stored 
+also this memory is alive till the program ends cause the variables can be used at any point of time in the program 
+so this memory keeps the varibles safely 
+
+** stack
+here all the function arguments local variables are stored jo ki at the time of main fun run chalenge in the manner of last 
+in first out also it will remain jab tak function alive hai and get released when the function ends and this is very low 
+storage and just can store primitive datatype only which requires very less memory space
+
+** heap
+the datatype which store or take a large space are called during program runtime are stored in heap memory it is large memory 
+space which can store a large space of data such as vector and string which are dynamic datatype 
+also whenever the heap stores a datatype in the heap memory creates a particular address of that datatype and 
+stores the data address in the stack and call the address whenever it is required by the stack memory and get released after use
+of that data from heap too
+makes the memory space more clear for the program 
+
+2. SSD 
+non volatile memory jus stores the raw data which is permanent to be stored and accessed 
+
+
+
+
+
